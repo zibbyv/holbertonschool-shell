@@ -22,3 +22,4 @@
 * 20-hiago: script that deletes lower and uppercase c
 * 21-reverse: script that reverses text
 * 22-users_and_homes: script that lists and sorts users and homes directories by cutting and selecting sections of info.
+* command that finds all empty files and directories in the current directory and all sub-directories
