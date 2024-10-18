@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aSR *.gif | sort -f
+find . -type f | rev | cut -d '/' -f1 | cut -d '.' -f 2 | rev | sort -f
